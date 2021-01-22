@@ -116,6 +116,7 @@
     <Content Include="Content\film.jpg" />
     <Content Include="Content\gameart %281%29.jpg" />
     <Content Include="Content\gameplay.jpg" />
+    <Content Include="Content\Page.css" />
     <Content Include="Content\siteMaster.css" />
     <Content Include="Content\video.mp4" />
     <Content Include="Default.aspx" />
