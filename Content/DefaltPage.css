@@ -1,0 +1,124 @@
+﻿body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background: #353535;
+    font-family: "Varela Round", sans-serif;
+}
+
+.image {
+    height: 582px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.width {
+    width: 85%;
+    margin: auto;
+}
+
+.text {
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+}
+
+.video {
+    background-size: cover;
+    background-position: center
+}
+
+.player_video {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.table {
+    display: table;
+    width: 100%;
+    height: 100%;
+    border-spacing: 50px;
+}
+
+.tr {
+    display: table-cell;
+    box-shadow: 5px 10px #888888;
+    height: 200px;
+    background-size: cover;
+}
+
+.th {
+    display: table-row;
+}
+
+.tr1 {
+    height: 200px;
+    background-image: url("concept-art.jpg");
+    background-size: cover;
+}
+.tr2 {
+    height: 200px;
+    background-image: url("abstract.jpg");
+    background-size: cover;
+}
+.tr3 {
+    height: 200px;
+    background-image: url('animal.jpg');
+    background-size: cover;
+}
+.tr4 {
+    height: 200px;
+    background-image: url('architecture (2) (1).jpg');
+    background-size: cover;
+}
+.tr5 {
+    height: 200px;
+    background-image: url('character.jpg');
+    background-size: cover;
+}
+.tr6 {
+    height: 200px;
+    background-image: url('comics (1).jpg');
+    background-size: cover;
+}
+.tr7 {
+    height: 200px;
+    background-image: url(film.jpg);
+    background-size: cover;
+}
+.tr8 {
+    height: 200px;
+    background-image: url('gameart (1).jpg');
+    background-size: cover;
+}
+.tr9 {
+    height: 200px;
+    background-image: url(gameplay.jpg);
+    background-size: cover;
+}
+    .text2 {
+    visibility: hidden;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 60%;
+    color:white;
+    background: rgba(0,0,0,0.6);
+}
+
+.tr:hover {
+    filter: grayscale(50%);
+    transition: 1s;
+    box-shadow: none;
+}
+
+.tr:hover .text2 {
+    visibility: visible;
+    filter: none;
+}
+

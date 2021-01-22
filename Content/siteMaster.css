@@ -1,0 +1,48 @@
+﻿
+.h1 {
+    color: #fff;
+}
+
+.a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.a:hover {
+    text-decoration: underline;
+}
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+
+.m {
+    margin: 0 40px 0 40px;
+}
+
+.footer {
+    display: flex;
+    background: black;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 50px;
+    margin-bottom: 0px;
+}
+
+/*.footer_other_page {
+    position: fixed;
+    height: 50px;
+    background-color: red;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}*/
+
+
+
