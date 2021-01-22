@@ -164,6 +164,7 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+<<<<<<< Updated upstream
     <Compile Include="NestedMasterPage1.master.cs">
       <DependentUpon>NestedMasterPage1.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -171,6 +172,8 @@
     <Compile Include="NestedMasterPage1.master.designer.cs">
       <DependentUpon>NestedMasterPage1.master</DependentUpon>
     </Compile>
+=======
+>>>>>>> Stashed changes
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
