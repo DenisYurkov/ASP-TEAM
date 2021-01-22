@@ -1,0 +1,124 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage1.master.cs" Inherits="WebApplication4.NestedMasterPage1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <div class="main">
+  <div class="img">
+    <img src="https://avatanplus.com/files/resources/original/5809fcb63baf7157e70327e4.jpg">
+  </div>
+  <div class="txt">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  </div>
+</div>
+
+<div class="width1">
+
+  <div class="table1">
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck">
+        <label for="zoomCheck">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/9/3.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck1">
+        <label for="zoomCheck1">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/11/2.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck2">
+        <label for="zoomCheck2">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/13/2.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck3">
+        <label for="zoomCheck3">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/16/2.png">
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck5">
+        <label for="zoomCheck5">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/11/2.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck6">
+        <label for="zoomCheck6">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/13/2.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck7">
+        <label for="zoomCheck7">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/16/2.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck8">
+        <label for="zoomCheck8">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/9/3.png">
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck9">
+        <label for="zoomCheck9">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/13/2.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck10">
+        <label for="zoomCheck10">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/16/2.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck11">
+        <label for="zoomCheck11">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/9/3.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck12">
+        <label for="zoomCheck12">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/11/2.png">
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck13">
+        <label for="zoomCheck13">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/16/2.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck14">
+        <label for="zoomCheck14">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/9/3.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck15">
+        <label for="zoomCheck15">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/11/2.png">
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck16">
+        <label for="zoomCheck16">
+          <img src="https://colorscheme.ru/img/color-harmony-pastels/13/2.png">
+        </label>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</asp:Content>

@@ -11,7 +11,7 @@ namespace WebApplication4
 {
 
 
-    public partial class Contact
+    public partial class NestedMasterPage1
     {
     }
 }

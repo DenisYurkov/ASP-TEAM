@@ -13,7 +13,7 @@
 }
 .menu {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     background-color: black;
     height: 100px;

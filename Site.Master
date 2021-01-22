@@ -6,13 +6,13 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - ArtMe.</title>
+    <title>ArtMe</title>
 
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
     <link  href="Content/siteMaster.css" rel="stylesheet"  />
     <link href="Content/DefaltPage.css" rel="stylesheet" />
-
+    <link href="Content/Page.css" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
 </head>
@@ -23,9 +23,7 @@
            <div class="m">
               <h1 style="color:white;"><a runat="server" class="a" href="~/">ArtMe</a></h1>
            </div>
-            <h1 runat="server"><a runat="server" class="a h1" href="~/">Home</a></h1>
-            <h1 runat="server"><a runat="server" class="a h1" href="~/About">About</a></h1>
-            <h1 runat="server"><a runat="server" class="a h1" href="~/Contact">Contact</a></h1>
+        
            <div class="m">
               <h1 style="color:white;"><a runat="server" class="a h1" href="~/Login">LOGIN</a></h1>
            </div>
