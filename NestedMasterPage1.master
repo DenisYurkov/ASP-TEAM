@@ -2,10 +2,14 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="main">
   <div class="img">
-    <img src="https://avatanplus.com/files/resources/original/5809fcb63baf7157e70327e4.jpg">
+      <img src="Content/concept-art.jpg" />
   </div>
   <div class="txt">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Concept art is not the same as illustration, explains videogames industry veteran James Pickthall. It's about creating a single artistic vision that can power a franchise.
+    What is concept art? Well that’s easy isn’t it? It's super polished art used to promote forthcoming films and games. Right? Wrong!
+
+The main goal of concept art is to convey a visual representation of a design, idea, and/or mood for use in films, video games, animation, or comic books before it is put into the final product. In other words, it aims to convey the overall design vision rather than specify everything in exact terms right at the start.
+
 
   </div>
 </div>
@@ -17,25 +21,25 @@
       <div class="tre1">
         <input type="checkbox" id="zoomCheck">
         <label for="zoomCheck">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/9/3.png">
+            <img src="Content/site/ConceptArt/-2-kouke.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck1">
         <label for="zoomCheck1">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/11/2.png">
+            <img src="Content/site/ConceptArt/florian-benedikt-mechhex-1p.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck2">
         <label for="zoomCheck2">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/13/2.png">
+            <img src="Content/site/ConceptArt/geun-paint-2021-01-24-c-2.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck3">
         <label for="zoomCheck3">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/16/2.png">
+            <img src="Content/site/ConceptArt/ivan-khotenov-face-f%20(1).jpg" />
         </label>
       </div>
     </div>
@@ -43,25 +47,25 @@
       <div class="tre1">
         <input type="checkbox" id="zoomCheck5">
         <label for="zoomCheck5">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/11/2.png">
+            <img src="Content/site/ConceptArt/krzysztof-luzny-smg-bak.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck6">
         <label for="zoomCheck6">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/13/2.png">
+            <img src="Content/site/ConceptArt/leon-laverda-paris-v2-ipx.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck7">
         <label for="zoomCheck7">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/16/2.png">
+            <img src="Content/site/ConceptArt/leon-laverda-town-shot-ext-v2-ipx.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck8">
         <label for="zoomCheck8">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/9/3.png">
+            <img src="Content/site/ConceptArt/mauro-belfiore-mauro-belfiore-coverartstation.jpg" />
         </label>
       </div>
     </div>
@@ -69,25 +73,25 @@
       <div class="tre1">
         <input type="checkbox" id="zoomCheck9">
         <label for="zoomCheck9">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/13/2.png">
+            <img src="Content/site/ConceptArt/petro-semeshchuk-petro-semeshchuk-preview.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck10">
         <label for="zoomCheck10">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/16/2.png">
+            <img src="Content/site/ConceptArt/ruben-torres-alonso-torrex-moto-guerrilla-atras.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck11">
         <label for="zoomCheck11">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/9/3.png">
+            <img src="Content/site/ConceptArt/sang-nguyen-asset.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck12">
         <label for="zoomCheck12">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/11/2.png">
+            <img src="Content/site/ConceptArt/selin-aydin-selin-aydin-ezra-face-selin-aydin-kelpwomanart2.jpg" />
         </label>
       </div>
     </div>
@@ -95,25 +99,25 @@
       <div class="tre1">
         <input type="checkbox" id="zoomCheck13">
         <label for="zoomCheck13">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/16/2.png">
+            <img src="Content/site/ConceptArt/veronika-firsova-veronika-firsova-bark-bark-studio-color-of-light-kestra2.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck14">
         <label for="zoomCheck14">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/9/3.png">
+            <img src="Content/site/ConceptArt/wouter-gort-wouter-gort-14-weapon-magazine-lighting-square.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck15">
         <label for="zoomCheck15">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/11/2.png">
+            <img src="Content/site/ConceptArt/yeeky-zhang-space-79.jpg" />
         </label>
       </div>
       <div class="tre1">
         <input type="checkbox" id="zoomCheck16">
         <label for="zoomCheck16">
-          <img src="https://colorscheme.ru/img/color-harmony-pastels/13/2.png">
+            <img src="Content/site/ConceptArt/yuriy-cherednick-yuriy-cherednick-22.jpg" />
         </label>
       </div>
     </div>

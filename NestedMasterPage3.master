@@ -1,0 +1,125 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage3.master.cs" Inherits="WebApplication4.NestedMasterPage3" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+<div class="main">
+  <div class="img">
+      <img src="Content/animal.jpg" />
+  </div>
+  <div class="txt">
+    Animals have always been a source of inspiration for artists, and that is no different, even in the contemporary age. Some artists continue to represent animals accurately, as in the real world. They paint with detail and feeling, to capture the individual personality of the animal they’re painting. Other artists experiment with colour or scale, or they add a cartoonish element. 
+
+  </div>
+</div>
+
+<div class="width1">
+
+  <div class="table1">
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck">
+        <label for="zoomCheck">
+            <img src="Content/site/Animal%20Design/atey-ghailan-x-post-illustration-1.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck1">
+        <label for="zoomCheck1">
+            <img src="Content/site/Animal%20Design/david-denny-bulldog-final-lowres.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck2">
+        <label for="zoomCheck2">
+            <img src="Content/site/Animal%20Design/dominika-darowna-jelen02.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck3">
+        <label for="zoomCheck3">
+            <img src="Content/site/Animal%20Design/katerina-ladon-misteri-3-cover-katerina-ladon.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck5">
+        <label for="zoomCheck5">
+            <img src="Content/site/Animal%20Design/kogtya-.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck6">
+        <label for="zoomCheck6">
+            <img src="Content/site/Animal%20Design/mari-liis-kirsimagi-regulus.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck7">
+        <label for="zoomCheck7">
+            <img src="Content/site/Animal%20Design/nazsh-r-38-2.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck8">
+        <label for="zoomCheck8">
+            <img src="Content/site/Animal%20Design/paprika-asadaddffgg4.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck9">
+        <label for="zoomCheck9">
+            <img src="Content/site/Animal%20Design/rebecca-el-cheikh-final-concept-slide.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck10">
+        <label for="zoomCheck10">
+            <img src="Content/site/Animal%20Design/rj-palmer-rjpalmer-carnotaurus-site-004-copy.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck11">
+        <label for="zoomCheck11">
+            <img src="Content/site/Animal%20Design/smartiys-ares-seaturtle.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck12">
+        <label for="zoomCheck12">
+            <img src="Content/site/Animal%20Design/sophie-phipps-rex.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck13">
+        <label for="zoomCheck13">
+            <img src="Content/site/Animal%20Design/sophie-phipps-rusty.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck14">
+        <label for="zoomCheck14">
+            <img src="Content/site/Animal%20Design/tiny-troodon-gold.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck15">
+        <label for="zoomCheck15">
+            <img src="Content/site/Animal%20Design/zlatko-ig.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck16">
+        <label for="zoomCheck16">
+            <img src="Content/site/Animal%20Design/zoltan-pogonyi-diamond-dove-1k.jpg" />
+        </label>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</asp:Content>
+

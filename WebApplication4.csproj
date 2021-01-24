@@ -105,6 +105,153 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ArchitectureDesign.aspx" />
+    <Content Include="CharacterDesign.aspx" />
+    <Content Include="ComicsArt.aspx" />
+    <Content Include="Content\site\Abstract\-.jpg" />
+    <Content Include="Content\site\Abstract\-004.jpg" />
+    <Content Include="Content\site\Abstract\bx-bob-043-5m07gdocfhm.jpg" />
+    <Content Include="Content\site\Abstract\chang-min-son-210124.jpg" />
+    <Content Include="Content\site\Abstract\dang-hiep-a-series-of-dreams-3-art-station.jpg" />
+    <Content Include="Content\site\Abstract\denis-merzlov-2021-the-dynamic-square-4k-2.jpg" />
+    <Content Include="Content\site\Abstract\dmitrii-yakovlev-untitled-1023.jpg" />
+    <Content Include="Content\site\Abstract\fiona-art-1yt.jpg" />
+    <Content Include="Content\site\Abstract\g-i-r-g-i-s-1-sm-3.jpg" />
+    <Content Include="Content\site\Abstract\irena-katrina-img-20210121-124436.jpg" />
+    <Content Include="Content\site\Abstract\james-suret-emanation.jpg" />
+    <Content Include="Content\site\Abstract\monika-czaja-picsart-01-23-06-19-12.jpg" />
+    <Content Include="Content\site\Abstract\monika-czaja-picsart-01-23-06-27-58.jpg" />
+    <Content Include="Content\site\Abstract\monika-czaja-picsart-01-23-06-32-09.jpg" />
+    <Content Include="Content\site\Abstract\nick-timofeev-.jpg" />
+    <Content Include="Content\site\Abstract\william-king-mushberry-worms-59.jpg" />
+    <Content Include="Content\site\Animal Design\atey-ghailan-x-post-illustration-1.jpg" />
+    <Content Include="Content\site\Animal Design\david-denny-bulldog-final-lowres.jpg" />
+    <Content Include="Content\site\Animal Design\dominika-darowna-jelen02.jpg" />
+    <Content Include="Content\site\Animal Design\katerina-ladon-misteri-3-cover-katerina-ladon.jpg" />
+    <Content Include="Content\site\Animal Design\kogtya-.jpg" />
+    <Content Include="Content\site\Animal Design\mari-liis-kirsimagi-regulus.jpg" />
+    <Content Include="Content\site\Animal Design\nazsh-r-38-2.jpg" />
+    <Content Include="Content\site\Animal Design\paprika-asadaddffgg4.jpg" />
+    <Content Include="Content\site\Animal Design\rebecca-el-cheikh-final-concept-slide.jpg" />
+    <Content Include="Content\site\Animal Design\rj-palmer-rjpalmer-carnotaurus-site-004-copy.jpg" />
+    <Content Include="Content\site\Animal Design\smartiys-ares-seaturtle.jpg" />
+    <Content Include="Content\site\Animal Design\sophie-phipps-rex.jpg" />
+    <Content Include="Content\site\Animal Design\sophie-phipps-rusty.jpg" />
+    <Content Include="Content\site\Animal Design\tiny-troodon-gold.jpg" />
+    <Content Include="Content\site\Animal Design\zlatko-ig.jpg" />
+    <Content Include="Content\site\Animal Design\zoltan-pogonyi-diamond-dove-1k.jpg" />
+    <Content Include="Content\site\Architecture Design\abdel-latif-khaled-shot-1.jpg" />
+    <Content Include="Content\site\Architecture Design\alifarvardin-5.jpg" />
+    <Content Include="Content\site\Architecture Design\allan-gelman-1042533416-640.jpg" />
+    <Content Include="Content\site\Architecture Design\andri-nuroe-img20191228121335-01-01-01.jpg" />
+    <Content Include="Content\site\Architecture Design\denfit-5898489796.jpg" />
+    <Content Include="Content\site\Architecture Design\fux-quaderi-5532.jpg" />
+    <Content Include="Content\site\Architecture Design\giedrius-sakalys-d20.jpg" />
+    <Content Include="Content\site\Architecture Design\giimann-building9.jpg" />
+    <Content Include="Content\site\Architecture Design\gustavo-wielewski-5-pos.jpg" />
+    <Content Include="Content\site\Architecture Design\gustavo-wielewski-76ab7407-15a9-4cea-a5ee-f5e523a3e955.jpg" />
+    <Content Include="Content\site\Architecture Design\kate-pazzanese-img-20200525-164053-734.jpg" />
+    <Content Include="Content\site\Architecture Design\mohamx-evermotion2018-mohamadakbari.jpg" />
+    <Content Include="Content\site\Architecture Design\patrick-weber-patrick-weber-darkbutnice-frame01-001-pw0000.jpg" />
+    <Content Include="Content\site\Architecture Design\ryan-beckwith-prague-cartoony.jpg" />
+    <Content Include="Content\site\Architecture Design\serap-kusu-final-2.jpg" />
+    <Content Include="Content\site\Architecture Design\tapio-lahde-teve-brander-render-p01.jpg" />
+    <Content Include="Content\site\Comics Art\evgeny-yurichev-homelander-06-1000.jpg" />
+    <Content Include="Content\site\Comics Art\gop-gap-gg002.jpg" />
+    <Content Include="Content\site\Comics Art\inhyuk-lee-inhyuk-lee-2.jpg" />
+    <Content Include="Content\site\Comics Art\inhyuk-lee-inhyuk-lee.jpg" />
+    <Content Include="Content\site\Comics Art\jeehyung-lee-marvel-spider-gwen-03.jpg" />
+    <Content Include="Content\site\Comics Art\kael-ngu-20200607-thelastronin-1-op.jpg" />
+    <Content Include="Content\site\Comics Art\mickael-balloul-teamshot1.jpg" />
+    <Content Include="Content\site\Comics Art\raf-grassetti-batman-final-artstationsmall.jpg" />
+    <Content Include="Content\site\Comics Art\raf-grassetti-wolv-finallow.jpg" />
+    <Content Include="Content\site\Comics Art\shawn-lin-shawn-lin-fire-ice-07.jpg" />
+    <Content Include="Content\site\Comics Art\tan-di-2lxm.jpg" />
+    <Content Include="Content\site\Comics Art\tim-mcburnie-tmcburnie-sequential-nov20-sample-color.jpg" />
+    <Content Include="Content\site\Comics Art\tomek-pietrzyk-tomek-pietrzyk-thumbnail-tomek-pietrzyk-inks.jpg" />
+    <Content Include="Content\site\Comics Art\tooth-wu-1124.jpg" />
+    <Content Include="Content\site\Comics Art\toraji-cover.jpg" />
+    <Content Include="Content\site\Comics Art\wellington-phelippe-sdoo.jpg" />
+    <Content Include="Content\site\ConceptArt\-2-kouke.jpg" />
+    <Content Include="Content\site\ConceptArt\florian-benedikt-mechhex-1p.jpg" />
+    <Content Include="Content\site\ConceptArt\geun-paint-2021-01-24-c-2.jpg" />
+    <Content Include="Content\site\ConceptArt\ivan-khotenov-face-f %281%29.jpg" />
+    <Content Include="Content\site\ConceptArt\krzysztof-luzny-smg-bak.jpg" />
+    <Content Include="Content\site\ConceptArt\leon-laverda-paris-v2-ipx.jpg" />
+    <Content Include="Content\site\ConceptArt\leon-laverda-town-shot-ext-v2-ipx.jpg" />
+    <Content Include="Content\site\ConceptArt\mauro-belfiore-mauro-belfiore-coverartstation.jpg" />
+    <Content Include="Content\site\ConceptArt\petro-semeshchuk-petro-semeshchuk-preview.jpg" />
+    <Content Include="Content\site\ConceptArt\ruben-torres-alonso-torrex-moto-guerrilla-atras.jpg" />
+    <Content Include="Content\site\ConceptArt\sang-nguyen-asset.jpg" />
+    <Content Include="Content\site\ConceptArt\selin-aydin-selin-aydin-ezra-face-selin-aydin-kelpwomanart2.jpg" />
+    <Content Include="Content\site\ConceptArt\veronika-firsova-veronika-firsova-bark-bark-studio-color-of-light-kestra2.jpg" />
+    <Content Include="Content\site\ConceptArt\wouter-gort-wouter-gort-14-weapon-magazine-lighting-square.jpg" />
+    <Content Include="Content\site\ConceptArt\yeeky-zhang-space-79.jpg" />
+    <Content Include="Content\site\ConceptArt\yuriy-cherednick-yuriy-cherednick-22.jpg" />
+    <Content Include="Content\site\Game Art\-23.jpg" />
+    <Content Include="Content\site\Game Art\-8.jpg" />
+    <Content Include="Content\site\Game Art\an-sangjin-an-sangjin-crop.jpg" />
+    <Content Include="Content\site\Game Art\donghui-lee-xxx2.jpg" />
+    <Content Include="Content\site\Game Art\grafit-studio-tle-wizards-riddle-loading-fin.jpg" />
+    <Content Include="Content\site\Game Art\hassan-chenari-new-way-68.jpg" />
+    <Content Include="Content\site\Game Art\horace-hsu-9-ss-neeko-13.jpg" />
+    <Content Include="Content\site\Game Art\hunter-gage-berserkerfinal11.jpg" />
+    <Content Include="Content\site\Game Art\islam-kurbanov-hades.jpg" />
+    <Content Include="Content\site\Game Art\ji-jiji-final.jpg" />
+    <Content Include="Content\site\Game Art\julien-truman-julien-truman-2thum.jpg" />
+    <Content Include="Content\site\Game Art\krane-stained-karbon-maps-mushroom-pools-20x10-free-gridded.jpg" />
+    <Content Include="Content\site\Game Art\lin-caiji-qq-20201104212742.jpg" />
+    <Content Include="Content\site\Game Art\longque-chen-sketch-final-1-x.jpg" />
+    <Content Include="Content\site\Game Art\rudy-siswanto-marauder-kled-small.jpg" />
+    <Content Include="Content\site\Game Art\studio-pinata-clashyconstructs.jpg" />
+    <Content Include="Content\site\Gameplay\-111222.jpg" />
+    <Content Include="Content\site\Gameplay\alisher-mirzoev-runes-thumbs-color-01.jpg" />
+    <Content Include="Content\site\Gameplay\dawnpu-at-art-vision-studio-1.jpg" />
+    <Content Include="Content\site\Gameplay\denis-spichkin-denis-spichkin-characterfront.jpg" />
+    <Content Include="Content\site\Gameplay\edalgo-4.jpg" />
+    <Content Include="Content\site\Gameplay\ian-1.jpg" />
+    <Content Include="Content\site\Gameplay\igor-artyomenko-pirates3-fin-min.jpg" />
+    <Content Include="Content\site\Gameplay\jane-w-jane-w-1.jpg" />
+    <Content Include="Content\site\Gameplay\jenny-harder-tavern-small-day.jpg" />
+    <Content Include="Content\site\Gameplay\lee-piper-lee-piper-tav-2.jpg" />
+    <Content Include="Content\site\Gameplay\liao-robin-45.jpg" />
+    <Content Include="Content\site\Gameplay\oana-roxana-birtea-yuuza-final2.jpg" />
+    <Content Include="Content\site\Gameplay\robert-nally-3rd-person-prototype-8.jpg" />
+    <Content Include="Content\site\Gameplay\w-qqq-1111.jpg" />
+    <Content Include="Content\site\Gameplay\xinjin-feng-entertainment-city.jpg" />
+    <Content Include="Content\site\Gameplay\yui-yui-46495286-2016419458414511-8802123602968182784-n.jpg" />
+    <Content Include="Content\site\VFX for Film\camille-peyrebere-camille-peyrebere-vignette.jpg" />
+    <Content Include="Content\site\VFX for Film\dmitry-kurbanau-dmitry-kurbanau-trailsprojectilesexlosions-01-render.jpg" />
+    <Content Include="Content\site\VFX for Film\dylan-walker-fx-explodsion.jpg" />
+    <Content Include="Content\site\VFX for Film\jordan-torak-jordan-torak-thumbnail-2.jpg" />
+    <Content Include="Content\site\VFX for Film\julia-titova-all-ability15.jpg" />
+    <Content Include="Content\site\VFX for Film\julien-pingault-eclair-07.jpg" />
+    <Content Include="Content\site\VFX for Film\julien-pingault-illu-hd.jpg" />
+    <Content Include="Content\site\VFX for Film\kenny-kong-fx4.jpg" />
+    <Content Include="Content\site\VFX for Film\lise-elsoght-lise-elsoght-03-2.jpg" />
+    <Content Include="Content\site\VFX for Film\nicolas-garnier-thumb.jpg" />
+    <Content Include="Content\site\VFX for Film\sarah-carmody-010-sarahcarmody-halloween.jpg" />
+    <Content Include="Content\site\VFX for Film\shawn-johnson-netherwhispconceptscollage.jpg" />
+    <Content Include="Content\site\VFX for Film\yuri-podchasha-rocket.jpg" />
+    <Content Include="Content\site\VFX for Film\yuri-podchasha-yuri-podchasha-brzs9hymfoi.jpg" />
+    <Content Include="Content\site\VFX for Film\yuri-podchasha-yuri-podchasha-unknown.jpg" />
+    <Content Include="Content\site\VFX for Film\yuri-podchasha-yuri-podchasha-water-splash-anime-00009.jpg" />
+    <Content Include="Content\site\Сharacter Design\anna-nikonova-aka-newmilky-char-dev-3.jpg" />
+    <Content Include="Content\site\Сharacter Design\bo-xun-lin-close.jpg" />
+    <Content Include="Content\site\Сharacter Design\dao-le-trong-a.jpg" />
+    <Content Include="Content\site\Сharacter Design\inhyuk-lee-inhyuk-lee %281%29.jpg" />
+    <Content Include="Content\site\Сharacter Design\inhyuk-lee-inhyuk-lee %282%29.jpg" />
+    <Content Include="Content\site\Сharacter Design\inhyuk-lee-inhyuk-lee.jpg" />
+    <Content Include="Content\site\Сharacter Design\johnson-ting-odin-4.jpg" />
+    <Content Include="Content\site\Сharacter Design\kan-liu-666k-whatsupicon.jpg" />
+    <Content Include="Content\site\Сharacter Design\laurel-d-austin-hs-15-0-uldum-final-postersm.jpg" />
+    <Content Include="Content\site\Сharacter Design\martina-fackova-black-halo-cover-final.jpg" />
+    <Content Include="Content\site\Сharacter Design\raf-grassetti-tmnt-final.jpg" />
+    <Content Include="Content\site\Сharacter Design\rui-li-renderff555-0050.jpg" />
+    <Content Include="Content\site\Сharacter Design\sean-raiko-tay-eqx6r9-ucaevpou-1.jpg" />
+    <Content Include="Content\site\Сharacter Design\yang-qi917-.jpg" />
+    <Content Include="Content\site\Сharacter Design\yongjae-choi-vivien-arkbow-ranger.jpg" />
+    <Content Include="Content\site\Сharacter Design\z-w-gu-canal.jpg" />
     <Content Include="ConceptArt.aspx" />
     <Content Include="Content\abstract.jpg" />
     <Content Include="Content\animal.jpg" />
@@ -121,6 +268,8 @@
     <Content Include="Content\video.mp4" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="GameArt.aspx" />
+    <Content Include="Gameplay.aspx" />
     <Content Include="Scripts\WebForms\DetailsView.js" />
     <Content Include="Scripts\WebForms\Focus.js" />
     <Content Include="Scripts\WebForms\GridView.js" />
@@ -143,13 +292,37 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
+    <Content Include="VFXforFilm.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
+    <Content Include="Abstract.aspx" />
+    <Content Include="AnimalDesign.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="ArchitectureDesign.aspx.cs">
+      <DependentUpon>ArchitectureDesign.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ArchitectureDesign.aspx.designer.cs">
+      <DependentUpon>ArchitectureDesign.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CharacterDesign.aspx.cs">
+      <DependentUpon>CharacterDesign.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CharacterDesign.aspx.designer.cs">
+      <DependentUpon>CharacterDesign.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComicsArt.aspx.cs">
+      <DependentUpon>ComicsArt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComicsArt.aspx.designer.cs">
+      <DependentUpon>ComicsArt.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ConceptArt.aspx.cs">
       <DependentUpon>ConceptArt.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -164,7 +337,20 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-<<<<<<< Updated upstream
+    <Compile Include="GameArt.aspx.cs">
+      <DependentUpon>GameArt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GameArt.aspx.designer.cs">
+      <DependentUpon>GameArt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Gameplay.aspx.cs">
+      <DependentUpon>Gameplay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Gameplay.aspx.designer.cs">
+      <DependentUpon>Gameplay.aspx</DependentUpon>
+    </Compile>
     <Compile Include="NestedMasterPage1.master.cs">
       <DependentUpon>NestedMasterPage1.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -172,8 +358,62 @@
     <Compile Include="NestedMasterPage1.master.designer.cs">
       <DependentUpon>NestedMasterPage1.master</DependentUpon>
     </Compile>
-=======
->>>>>>> Stashed changes
+    <Compile Include="NestedMasterPage2.master.cs">
+      <DependentUpon>NestedMasterPage2.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NestedMasterPage2.master.designer.cs">
+      <DependentUpon>NestedMasterPage2.master</DependentUpon>
+    </Compile>
+    <Compile Include="NestedMasterPage3.master.cs">
+      <DependentUpon>NestedMasterPage3.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NestedMasterPage3.master.designer.cs">
+      <DependentUpon>NestedMasterPage3.master</DependentUpon>
+    </Compile>
+    <Compile Include="NestedMasterPage4.master.cs">
+      <DependentUpon>NestedMasterPage4.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NestedMasterPage4.master.designer.cs">
+      <DependentUpon>NestedMasterPage4.master</DependentUpon>
+    </Compile>
+    <Compile Include="NestedMasterPage5.master.cs">
+      <DependentUpon>NestedMasterPage5.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NestedMasterPage5.master.designer.cs">
+      <DependentUpon>NestedMasterPage5.master</DependentUpon>
+    </Compile>
+    <Compile Include="NestedMasterPage6.master.cs">
+      <DependentUpon>NestedMasterPage6.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NestedMasterPage6.master.designer.cs">
+      <DependentUpon>NestedMasterPage6.master</DependentUpon>
+    </Compile>
+    <Compile Include="NestedMasterPage7.master.cs">
+      <DependentUpon>NestedMasterPage7.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NestedMasterPage7.master.designer.cs">
+      <DependentUpon>NestedMasterPage7.master</DependentUpon>
+    </Compile>
+    <Compile Include="NestedMasterPage8.master.cs">
+      <DependentUpon>NestedMasterPage8.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NestedMasterPage8.master.designer.cs">
+      <DependentUpon>NestedMasterPage8.master</DependentUpon>
+    </Compile>
+    <Compile Include="NestedMasterPage9.master.cs">
+      <DependentUpon>NestedMasterPage9.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NestedMasterPage9.master.designer.cs">
+      <DependentUpon>NestedMasterPage9.master</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -182,6 +422,13 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
+    <Compile Include="VFXforFilm.aspx.cs">
+      <DependentUpon>VFXforFilm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VFXforFilm.aspx.designer.cs">
+      <DependentUpon>VFXforFilm.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -189,12 +436,34 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
+    <Compile Include="Abstract.aspx.cs">
+      <DependentUpon>Abstract.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Abstract.aspx.designer.cs">
+      <DependentUpon>Abstract.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AnimalDesign.aspx.cs">
+      <DependentUpon>AnimalDesign.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AnimalDesign.aspx.designer.cs">
+      <DependentUpon>AnimalDesign.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="NestedMasterPage1.master" />
+    <Content Include="NestedMasterPage2.master" />
+    <Content Include="NestedMasterPage3.master" />
+    <Content Include="NestedMasterPage4.master" />
+    <Content Include="NestedMasterPage5.master" />
+    <Content Include="NestedMasterPage6.master" />
+    <Content Include="NestedMasterPage7.master" />
+    <Content Include="NestedMasterPage8.master" />
+    <Content Include="NestedMasterPage9.master" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

@@ -1,0 +1,128 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage2.master.cs" Inherits="WebApplication4.NestedMasterPage2" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+<div class="main">
+  <div class="img">
+      <img src="Content/abstract.jpg" />
+  </div>
+  <div class="txt">
+      Abstract art is art that does not attempt to represent an accurate depiction of a visual reality but instead use shapes, colours, forms and gestural marks to achieve its effect
+      <br />
+      Strictly speaking, the word abstract means to separate or withdraw something from something else.
+
+
+  </div>
+</div>
+
+<div class="width1">
+
+  <div class="table1">
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck">
+        <label for="zoomCheck">
+            <img src="Content/site/Abstract/-.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck1">
+        <label for="zoomCheck1">
+            <img src="Content/site/Abstract/-004.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck2">
+        <label for="zoomCheck2">
+            <img src="Content/site/Abstract/bx-bob-043-5m07gdocfhm.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck3">
+        <label for="zoomCheck3">
+            <img src="Content/site/Abstract/chang-min-son-210124.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck5">
+        <label for="zoomCheck5">
+            <img src="Content/site/Abstract/dang-hiep-a-series-of-dreams-3-art-station.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck6">
+        <label for="zoomCheck6">
+            <img src="Content/site/Abstract/denis-merzlov-2021-the-dynamic-square-4k-2.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck7">
+        <label for="zoomCheck7">
+            <img src="Content/site/Abstract/dmitrii-yakovlev-untitled-1023.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck8">
+        <label for="zoomCheck8">
+            <img src="Content/site/Abstract/fiona-art-1yt.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck9">
+        <label for="zoomCheck9">
+            <img src="Content/site/Abstract/g-i-r-g-i-s-1-sm-3.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck10">
+        <label for="zoomCheck10">
+            <img src="Content/site/Abstract/irena-katrina-img-20210121-124436.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck11">
+        <label for="zoomCheck11">
+            <img src="Content/site/Abstract/james-suret-emanation.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck12">
+        <label for="zoomCheck12">
+            <img src="Content/site/Abstract/monika-czaja-picsart-01-23-06-19-12.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck13">
+        <label for="zoomCheck13">
+            <img src="Content/site/Abstract/monika-czaja-picsart-01-23-06-27-58.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck14">
+        <label for="zoomCheck14">
+            <img src="Content/site/Abstract/monika-czaja-picsart-01-23-06-32-09.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck15">
+        <label for="zoomCheck15">
+            <img src="Content/site/Abstract/nick-timofeev-.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck16">
+        <label for="zoomCheck16">
+            <img src="Content/site/Abstract/william-king-mushberry-worms-59.jpg" />
+        </label>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</asp:Content>
+

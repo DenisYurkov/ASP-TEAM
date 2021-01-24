@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage4.master.cs" Inherits="WebApplication4.NestedMasterPage4" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+<div class="main">
+  <div class="img">
+      <img src="Content/architecture%20(2)%20(1).jpg" />
+  </div>
+  <div class="txt">
+   Architectural designers create plans, drawings, and layouts for buildings and landscapes. They are typically less qualified than architects and are not recognized by a statutory body. This job includes meeting with clients to discuss a project’s requirements and budget, creating layouts that reflect the brief, and ensuring that the blueprints comply with regulations.
+
+
+  </div>
+</div>
+
+<div class="width1">
+
+  <div class="table1">
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck">
+        <label for="zoomCheck">
+            <img src="Content/site/Architecture%20Design/abdel-latif-khaled-shot-1.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck1">
+        <label for="zoomCheck1">
+            <img src="Content/site/Architecture%20Design/alifarvardin-5.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck2">
+        <label for="zoomCheck2">
+            <img src="Content/site/Architecture%20Design/allan-gelman-1042533416-640.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck3">
+        <label for="zoomCheck3">
+            <img src="Content/site/Architecture%20Design/andri-nuroe-img20191228121335-01-01-01.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck5">
+        <label for="zoomCheck5">
+            <img src="Content/site/Architecture%20Design/denfit-5898489796.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck6">
+        <label for="zoomCheck6">
+            <img src="Content/site/Architecture%20Design/fux-quaderi-5532.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck7">
+        <label for="zoomCheck7">
+            <img src="Content/site/Architecture%20Design/giedrius-sakalys-d20.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck8">
+        <label for="zoomCheck8">
+            <img src="Content/site/Architecture%20Design/giimann-building9.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck9">
+        <label for="zoomCheck9">
+            <img src="Content/site/Architecture%20Design/gustavo-wielewski-5-pos.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck10">
+        <label for="zoomCheck10">
+            <img src="Content/site/Architecture%20Design/gustavo-wielewski-76ab7407-15a9-4cea-a5ee-f5e523a3e955.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck11">
+        <label for="zoomCheck11">
+            <img src="Content/site/Architecture%20Design/kate-pazzanese-img-20200525-164053-734.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck12">
+        <label for="zoomCheck12">
+            <img src="Content/site/Architecture%20Design/mohamx-evermotion2018-mohamadakbari.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck13">
+        <label for="zoomCheck13">
+            <img src="Content/site/Architecture%20Design/patrick-weber-patrick-weber-darkbutnice-frame01-001-pw0000.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck14">
+        <label for="zoomCheck14">
+            <img src="Content/site/Architecture%20Design/ryan-beckwith-prague-cartoony.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck15">
+        <label for="zoomCheck15">
+            <img src="Content/site/Architecture%20Design/serap-kusu-final-2.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck16">
+        <label for="zoomCheck16">
+            <img src="Content/site/Architecture%20Design/tapio-lahde-teve-brander-render-p01.jpg" />
+        </label>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</asp:Content>
+

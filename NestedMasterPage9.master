@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage9.master.cs" Inherits="WebApplication4.NestedMasterPage9" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+<div class="main">
+  <div class="img">
+      <img src="Content/gameplay.jpg" />
+      
+  </div>
+  <div class="txt">
+      A games artist is someone who creates 2D and 3D art for the visual elements of a video game, such as characters, vehicles, props, scenery, background, objects, colours, textures, and clothing. All these things create the look and feel for a video game.
+
+  </div>
+</div>
+
+<div class="width1">
+
+  <div class="table1">
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck">
+        <label for="zoomCheck">
+            <img src="Content/site/Gameplay/-111222.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck1">
+        <label for="zoomCheck1">
+            <img src="Content/site/Gameplay/alisher-mirzoev-runes-thumbs-color-01.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck2">
+        <label for="zoomCheck2">
+            <img src="Content/site/Gameplay/dawnpu-at-art-vision-studio-1.jpg" />
+      
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck3">
+        <label for="zoomCheck3">
+            <img src="Content/site/Gameplay/denis-spichkin-denis-spichkin-characterfront.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck5">
+        <label for="zoomCheck5">
+            <img src="Content/site/Gameplay/edalgo-4.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck6">
+        <label for="zoomCheck6">
+            <img src="Content/site/Gameplay/ian-1.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck7">
+        <label for="zoomCheck7">
+            <img src="Content/site/Gameplay/igor-artyomenko-pirates3-fin-min.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck8">
+        <label for="zoomCheck8">
+            <img src="Content/site/Gameplay/jane-w-jane-w-1.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck9">
+        <label for="zoomCheck9">
+            <img src="Content/site/Gameplay/jenny-harder-tavern-small-day.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck10">
+        <label for="zoomCheck10">
+            <img src="Content/site/Gameplay/lee-piper-lee-piper-tav-2.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck11">
+        <label for="zoomCheck11">
+            <img src="Content/site/Gameplay/liao-robin-45.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck12">
+        <label for="zoomCheck12">
+            <img src="Content/site/Gameplay/oana-roxana-birtea-yuuza-final2.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck13">
+        <label for="zoomCheck13">
+            <img src="Content/site/Gameplay/robert-nally-3rd-person-prototype-8.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck14">
+        <label for="zoomCheck14">
+            <img src="Content/site/Gameplay/w-qqq-1111.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck15">
+        <label for="zoomCheck15">
+            <img src="Content/site/Gameplay/xinjin-feng-entertainment-city.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck16">
+        <label for="zoomCheck16">
+            <img src="Content/site/Gameplay/yui-yui-46495286-2016419458414511-8802123602968182784-n.jpg" />
+        </label>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</asp:Content>

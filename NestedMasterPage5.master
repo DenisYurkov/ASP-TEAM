@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage5.master.cs" Inherits="WebApplication4.NestedMasterPage5" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+<div class="main">
+  <div class="img">
+      <img src="Content/character.jpg" />
+  </div>
+  <div class="txt">
+    Character designers visualise and create the look of individual characters. They work from descriptions given to them by the director. These might include notes on a character's personality as well as physical traits. Character designers take inspiration from the script and concept art to design characters.
+
+  </div>
+</div>
+
+<div class="width1">
+
+  <div class="table1">
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck">
+        <label for="zoomCheck">
+            <img src="Content/site/Сharacter%20Design/anna-nikonova-aka-newmilky-char-dev-3.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck1">
+        <label for="zoomCheck1">
+            <img src="Content/site/Сharacter%20Design/bo-xun-lin-close.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck2">
+        <label for="zoomCheck2">
+            <img src="Content/site/Сharacter%20Design/dao-le-trong-a.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck3">
+        <label for="zoomCheck3">
+            <img src="Content/site/Сharacter%20Design/inhyuk-lee-inhyuk-lee%20(1).jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck5">
+        <label for="zoomCheck5">
+            <img src="Content/site/Сharacter%20Design/inhyuk-lee-inhyuk-lee%20(2).jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck6">
+        <label for="zoomCheck6">
+            <img src="Content/site/Сharacter%20Design/inhyuk-lee-inhyuk-lee.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck7">
+        <label for="zoomCheck7">
+            <img src="Content/site/Сharacter%20Design/johnson-ting-odin-4.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck8">
+        <label for="zoomCheck8">
+            <img src="Content/site/Сharacter%20Design/kan-liu-666k-whatsupicon.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck9">
+        <label for="zoomCheck9">
+            <img src="Content/site/Сharacter%20Design/laurel-d-austin-hs-15-0-uldum-final-postersm.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck10">
+        <label for="zoomCheck10">
+            <img src="Content/site/Сharacter%20Design/martina-fackova-black-halo-cover-final.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck11">
+        <label for="zoomCheck11">
+            <img src="Content/site/Сharacter%20Design/raf-grassetti-tmnt-final.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck12">
+        <label for="zoomCheck12">
+            <img src="Content/site/Сharacter%20Design/rui-li-renderff555-0050.jpg" />
+        </label>
+      </div>
+    </div>
+    <div class="th1">
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck13">
+        <label for="zoomCheck13">
+            <img src="Content/site/Сharacter%20Design/sean-raiko-tay-eqx6r9-ucaevpou-1.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck14">
+        <label for="zoomCheck14">
+            <img src="Content/site/Сharacter%20Design/yang-qi917-.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck15">
+        <label for="zoomCheck15">
+            <img src="Content/site/Сharacter%20Design/yongjae-choi-vivien-arkbow-ranger.jpg" />
+        </label>
+      </div>
+      <div class="tre1">
+        <input type="checkbox" id="zoomCheck16">
+        <label for="zoomCheck16">
+            <img src="Content/site/Сharacter%20Design/z-w-gu-canal.jpg" />
+        </label>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</asp:Content>
+
+

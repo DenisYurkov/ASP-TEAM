@@ -18,7 +18,7 @@
               <div class="tr tr1">
                  <div class="text2">
                     <h1>
-                       Concept Art
+                       <a href="ConceptArt.aspx">Concept Art</a>
                     </h1>
                  </div>
               </div>
@@ -26,7 +26,7 @@
               <div class="tr tr2">
                  <div class="text2">
                     <h1>
-                        Abstract
+                        <a href="Abstract.aspx">Abstract</a>
                     </h1>
                  </div>
               </div>
@@ -34,7 +34,7 @@
               <div class="tr tr3">
                  <div class="text2">
                     <h1>
-                       Animal Design
+                        <a href="AnimalDesign.aspx">Animal Design</a>
                     </h1>
                  </div>
               </div>
@@ -44,7 +44,7 @@
               <div class="tr tr4">
                  <div class="text2">
                     <h1>
-                       Architecture Design
+                        <a href="ArchitectureDesign.aspx">Architecture Design</a>
                     </h1>
                  </div>
               </div>
@@ -52,14 +52,14 @@
               <div class="tr tr5">
                  <div class="text2">
                     <h1>
-                       Character Design
+                      <a href="CharacterDesign.aspx">Character Design</a>
                     </h1>
                  </div>
               </div>
               <div class="tr tr6">
                  <div class="text2">
                     <h1>
-                       Comics Art
+                        <a href="ComicsArt.aspx">Comics Art</a>
                     </h1>
                  </div>
               </div>
@@ -69,7 +69,7 @@
               <div class="tr tr7">
                  <div class="text2">
                     <h1>
-                       VFX for Film
+                      <a href="VFXforFilm.aspx">VFX for Film</a>
                     </h1>
                  </div>
               </div>
@@ -77,7 +77,7 @@
               <div class="tr tr8">
                  <div class="text2">
                     <h1>
-                       Game Art
+                        <a href="GameArt.aspx">Game Art</a>
                     </h1>
                  </div>
               </div>
@@ -85,7 +85,7 @@
               <div class="tr tr9">
                  <div class="text2">
                     <h1>
-                       Gameplay
+                       <a href="Gameplay.aspx">Gameplay</a>
                     </h1>
                  </div>
 
