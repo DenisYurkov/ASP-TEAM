@@ -17,13 +17,13 @@ namespace WebApplication4
         protected void Submit_Login_Click(object sender, EventArgs e)
         {
 
-            string Email = "Admin@mail.com";
-            string Password = "admin123";  
+            string Email = "TheBestAdminInTheWorld@gmail.com";
+            string Password = "my cat is dog";  
             
             if (Email_Input_Box.Text == Email) {
                 if (Pass_Input_Box.Text == Password)
                 {
-                    Response.Redirect("/Default.aspx");
+                    Response.Redirect("/Home.aspx");
                 }
                 else {
                     NotCorrect.Text = "Email or password is not correct";

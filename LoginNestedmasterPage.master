@@ -1,6 +1,20 @@
 ﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="LoginNestedmasterPage.master.cs" Inherits="WebApplication4.LoginNestedmasterPage" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <style>
+        .menu {
+            height: 80px;
+        }
+        .menu h1 {
+            cursor: not-allowed;        
+        }
+        .menu a {
+            pointer-events: none;    
+        }
 
+        .footer {
+            height: 80px;
+        }
+    </style>
       <div class="loginForm">
 				<h1 class="Login_Form_Title">SIGN IN</h1><br>
          
