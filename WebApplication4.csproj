@@ -267,7 +267,7 @@
     <Content Include="Content\siteMaster.css" />
     <Content Include="Content\login.css" />
     <Content Include="Content\video.mp4" />
-    <Content Include="Default.aspx" />
+    <Content Include="Home.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="GameArt.aspx" />
     <Content Include="Gameplay.aspx" />
@@ -332,14 +332,13 @@
     <Compile Include="ConceptArt.aspx.designer.cs">
       <DependentUpon>ConceptArt.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Default.aspx.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Default.aspx.designer.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
     </Compile>
-
     <Compile Include="GameArt.aspx.cs">
       <DependentUpon>GameArt.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -353,7 +352,7 @@
     </Compile>
     <Compile Include="Gameplay.aspx.designer.cs">
       <DependentUpon>Gameplay.aspx</DependentUpon>
-	</Compile>
+    </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -481,7 +480,6 @@
     <Content Include="NestedMasterPage7.master" />
     <Content Include="NestedMasterPage8.master" />
     <Content Include="NestedMasterPage9.master" />
-
     <Content Include="LoginNestedmasterPage.master" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
