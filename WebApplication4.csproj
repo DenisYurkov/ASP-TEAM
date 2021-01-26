@@ -353,7 +353,7 @@
     </Compile>
     <Compile Include="Gameplay.aspx.designer.cs">
       <DependentUpon>Gameplay.aspx</DependentUpon>
-
+	</Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

@@ -21,7 +21,7 @@
         
         <div class="menu">
            <div class="m">
-              <h1 style="color:white;"><a runat="server" class="a" href="#">ArtMe</a></h1>
+              <h1 style="color:white;"><a runat="server" class="a" href="~/">ArtMe</a></h1>
            </div>
         
           
