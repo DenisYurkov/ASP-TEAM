@@ -265,11 +265,13 @@
     <Content Include="Content\gameplay.jpg" />
     <Content Include="Content\Page.css" />
     <Content Include="Content\siteMaster.css" />
+    <Content Include="Content\login.css" />
     <Content Include="Content\video.mp4" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="GameArt.aspx" />
     <Content Include="Gameplay.aspx" />
+    <Content Include="Login.aspx" />
     <Content Include="Scripts\WebForms\DetailsView.js" />
     <Content Include="Scripts\WebForms\Focus.js" />
     <Content Include="Scripts\WebForms\GridView.js" />
@@ -337,6 +339,7 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+
     <Compile Include="GameArt.aspx.cs">
       <DependentUpon>GameArt.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -350,6 +353,20 @@
     </Compile>
     <Compile Include="Gameplay.aspx.designer.cs">
       <DependentUpon>Gameplay.aspx</DependentUpon>
+
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginNestedmasterPage.master.cs">
+      <DependentUpon>LoginNestedmasterPage.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginNestedmasterPage.master.designer.cs">
+      <DependentUpon>LoginNestedmasterPage.master</DependentUpon>
     </Compile>
     <Compile Include="NestedMasterPage1.master.cs">
       <DependentUpon>NestedMasterPage1.master</DependentUpon>
@@ -464,6 +481,8 @@
     <Content Include="NestedMasterPage7.master" />
     <Content Include="NestedMasterPage8.master" />
     <Content Include="NestedMasterPage9.master" />
+
+    <Content Include="LoginNestedmasterPage.master" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

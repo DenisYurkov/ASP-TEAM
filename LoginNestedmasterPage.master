@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="LoginNestedmasterPage.master.cs" Inherits="WebApplication4.LoginNestedmasterPage" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+
+      <div class="loginForm">
+				<h1 class="Login_Form_Title">SIGN IN</h1><br>
+         
+			<asp:Label class="Login_Label" runat="server" Text="Email"></asp:Label><br>
+          <asp:TextBox ID="Email_Input_Box" class="Input_Box" runat="server"></asp:TextBox>
+			<asp:Label id="label1" class="Login_Label" runat="server" Text="Password"></asp:Label><br>
+			 <asp:TextBox ID="Pass_Input_Box" class="Input_Box" type="password" runat="server"></asp:TextBox>
+		   <asp:Label ID="NotCorrect" class="CheckForm" runat="server" Text=" "></asp:Label><br>
+          <asp:Button class="Submit_Login" runat="server" Text="Submit"  OnClick="Submit_Login_Click"/>
+	</div>
+</asp:Content>

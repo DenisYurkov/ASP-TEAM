@@ -1,0 +1,70 @@
+﻿body {
+}
+
+.loginForm {
+    margin: 10% 35%;
+    width: 30%;
+    height: 500px;
+    background-color: black;
+    border: 5px solid white;
+}
+
+.Login_Form_Title {
+    text-align: center;
+    color: white;
+    font-size: 3em;
+}
+
+.Submit_Login {
+    border: 2px solid #8a480b;
+    border-bottom: 5px solid #8a480b;
+    outline: 0;
+    margin: 6% 40%;
+    width: 20%;
+    background-color: #e87409;
+    font-size: 1.4em;
+    padding: 10px 6px;
+    color: white;
+    border-radius: 10px;
+}
+
+    .Submit_Login:hover {
+        border-bottom: 2px solid #8a480b;
+        outline: 0;
+        margin: calc(6% + 3px) 40%;
+        width: 20%;
+        background-color: #e87409;
+        font-size: 1.4em;
+        padding: 10px 6px;
+        color: white;
+        border-radius: 10px;
+    }
+
+
+.Login_Label {
+    color: white;
+    font-size: 1.4em;
+    margin-left: 15%;
+}
+
+.Input_Box {
+    outline: 0;
+    width: 80%;
+    height: 5%;
+    margin: 2% 8%;
+    color: darkgrey;
+    font-size: 1.4em;
+    padding: 10px;
+    font-style: italic;
+}
+
+#Email_Input_Box, #Name_Input_Box, #Pass_Input_Box {
+    margin-bottom: 7%;
+}
+
+
+.CheckForm {
+    font-size: 1.1em;
+    margin: 1% 25%;
+    color: white;
+}
