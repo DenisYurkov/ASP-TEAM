@@ -22,9 +22,13 @@
         <div class="menu">
            <div class="m">
               <h1 style="color:white;"><a href="Home.aspx">ArtMe</a></h1>
-           </div>
-        
-          
+           <div class="m">
+            <a href="Comment.aspx">Comment.aspx</a>
+               </div>
+               <div class="m">
+            <a href="Admin.aspx">Admin.aspx</a>
+                   </div>
+          </div>
          </div>
 
         <div class=""><!-- container body-content -->

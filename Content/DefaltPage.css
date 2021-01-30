@@ -130,3 +130,54 @@ a {
     filter: none;
 }
 
+.form {
+    width: 50%;
+    margin: auto;
+    color: white;
+    font-size: 20px;
+}
+
+#TextBox1 #TextBox2{
+    color: #353535;
+    background-color: rgba(255,255,255,0.9);
+    border: none;
+    width: 100%;
+    outline: none;
+    box-shadow: 2px 5px #888888;
+    height: 35px;
+}
+
+#TextBox1:focus #TextBox2:focus {
+    box-shadow: none;
+    filter: transition:1s;
+}
+
+#TextBox3:focus {
+    box-shadow: none;
+    filter: transition:1s;
+}
+
+#TextBox3 {
+    color: #353535;
+    background-color: rgba(255,255,255,0.9);
+    border: none;
+    width: 100%;
+    outline: none;
+    height: 150px;
+    resize: none;
+    box-shadow: 2px 5px #888888;
+}
+
+#Button1 {
+    width: 100%;
+    box-shadow: none;
+    background-color: rgb(19,202,40);
+    color: white;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+}
+
+ #Button1:hover {
+        background-color: rgb(31,142,23);
+    }

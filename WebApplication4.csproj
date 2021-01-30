@@ -105,9 +105,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Admin.aspx" />
+    <Content Include="App_Data\Database1.mdf" />
+    <Content Include="App_Data\Database1_log.ldf">
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
     <Content Include="ArchitectureDesign.aspx" />
     <Content Include="CharacterDesign.aspx" />
     <Content Include="ComicsArt.aspx" />
+    <Content Include="Comment.aspx" />
     <Content Include="Content\site\Abstract\-.jpg" />
     <Content Include="Content\site\Abstract\-004.jpg" />
     <Content Include="Content\site\Abstract\bx-bob-043-5m07gdocfhm.jpg" />
@@ -281,6 +287,13 @@
     <Content Include="AnimalDesign.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="ArchitectureDesign.aspx.cs">
@@ -303,6 +316,13 @@
     </Compile>
     <Compile Include="ComicsArt.aspx.designer.cs">
       <DependentUpon>ComicsArt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Comment.aspx.cs">
+      <DependentUpon>Comment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Comment.aspx.designer.cs">
+      <DependentUpon>Comment.aspx</DependentUpon>
     </Compile>
     <Compile Include="ConceptArt.aspx.cs">
       <DependentUpon>ConceptArt.aspx</DependentUpon>
@@ -451,9 +471,7 @@
       <DependentUpon>AnimalDesign.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="NestedMasterPage1.master" />
     <Content Include="NestedMasterPage2.master" />
