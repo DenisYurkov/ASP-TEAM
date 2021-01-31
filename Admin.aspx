@@ -1,5 +1,13 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Admin.aspx.cs" Inherits="WebApplication4.Admin" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <style>
+        .footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+    
     <h1 style="text-align:center; color:white;">Admin Panel</h1>
     <div style="width:70%; margin: auto auto 50px; color:white;">
     <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" DeleteCommand="DELETE FROM [com] WHERE [Id] = @Id" InsertCommand="INSERT INTO [com] ([Id], [Name], [E-Mail], [Comment]) VALUES (@Id, @Name, @column1, @Comment)" SelectCommand="SELECT * FROM [com]" UpdateCommand="UPDATE [com] SET [Name] = @Name, [E-Mail] = @column1, [Comment] = @Comment WHERE [Id] = @Id">
