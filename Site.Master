@@ -21,15 +21,19 @@
         
         <div class="menu">
            <div class="m">
-              <h1 style="color:white;"><a href="Home.aspx">ArtMe</a></h1>
-           <div class="m">
-            <a href="Comment.aspx">Comment.aspx</a>
-               </div>
-               <div class="m">
-            <a href="Admin.aspx">Admin.aspx</a>
+           <h1><a href="Home.aspx">ArtMe</a></h1>
+
+           </div>
+           <div class="m item">
+          <h1><a href="Comment.aspx">Comment</a></h1>
+            </div>
+            <div class="m">
+               <h1> <a href="Admin.aspx">Admin</a></h1>
                    </div>
-          </div>
-         </div>
+            
+                   </div>
+          
+       
 
         <div class=""><!-- container body-content -->
             <asp:ContentPlaceHolder ID="MainContent" runat="server">

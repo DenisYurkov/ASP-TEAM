@@ -11,7 +11,7 @@ namespace WebApplication4
 {
 
 
-    public partial class Home
+    public partial class _Home
     {
     }
 }

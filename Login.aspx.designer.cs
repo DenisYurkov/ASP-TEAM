@@ -11,7 +11,7 @@ namespace WebApplication4
 {
 
 
-    public partial class _Default
+    public partial class Default
     {
     }
 }
