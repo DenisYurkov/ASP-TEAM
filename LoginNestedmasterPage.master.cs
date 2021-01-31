@@ -17,15 +17,20 @@ namespace WebApplication4
         protected void Submit_Login_Click(object sender, EventArgs e)
         {
 
-            string Email = "TheBestAdminInTheWorld@gmail.com";
-            string Password = "my cat is dog";  
-            
-            if (Email_Input_Box.Text == Email) {
+            string Email = "1";
+            string Password = "1";
+
+            if (Email_Input_Box.Text == Email)
+            {
                 if (Pass_Input_Box.Text == Password)
                 {
+                    HttpCookie login = new HttpCookie("email", Email_Input_Box.Text);
+                    Response.Cookies.Add(login);
                     Response.Redirect("/Home.aspx");
+
                 }
-                else {
+                else
+                {
                     NotCorrect.Text = "Email or password is not correct";
                 }
             }

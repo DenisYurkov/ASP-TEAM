@@ -168,6 +168,7 @@ a {
 }
 
 .submit {
+    font-size: 1.1em;
     width: 20%;
     background-color: #e87409;
     color: white;
@@ -178,6 +179,5 @@ a {
 }
 
     .submit:hover {
-        background-color: #8a480b;
-        
+        background-color: #8a480b;    
     }

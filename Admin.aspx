@@ -48,5 +48,7 @@
     <SortedDescendingCellStyle BackColor="#4d4d4d" />
     <SortedDescendingHeaderStyle BackColor="#333333" />
 </asp:GridView>
+        <asp:Button ID="Button1" runat="server" OnClick="logOut_Click" CssClass="submit" Text="Log out" />
         </div>
+    
 </asp:Content>

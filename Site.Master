@@ -27,10 +27,11 @@
            <div class="m item">
           <h1><a href="Comment.aspx">Comment</a></h1>
             </div>
-            <div class="m">
-               <h1> <a href="Admin.aspx">Admin</a></h1>
-                   </div>
-            
+             <div class="m">
+              <h1 style="color:white;">
+                  <asp:Button ID="Login"  onclick="Login_Click" runat="server" Text="Login" /></h1>
+           </div> 
+
                    </div>
           
        
@@ -40,7 +41,7 @@
             </asp:ContentPlaceHolder>
 
             <div class="footer footer_other_page">
-                <h1>&copy; <%: DateTime.Now.Year %> - ArtMe.</h1>
+                <h1>&copy; <%: DateTime.Now.Year %> - ArtMe. All right reserved.</h1>
             </div>
         </div>
     </form>

@@ -11,7 +11,27 @@ namespace WebApplication4
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Request.Cookies["email"] != null)
+            {
+                Login.Text = "Admin";
+            }
+            else
+            {
+                Login.Text = "Login";
+            }
+        }
+        protected void Login_Click(object sender, EventArgs e)
+        {
 
+
+            if (Request.Cookies["email"] != null)
+            {
+                Response.Redirect("/Admin.aspx");
+            }
+            else
+            {
+                Response.Redirect("/Login.aspx");
+            }
         }
     }
 }

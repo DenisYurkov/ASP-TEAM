@@ -13,7 +13,13 @@ namespace WebApplication4
         {
 
         }
-
-    
+        
+        protected void logOut_Click(object sender, EventArgs e)
+        {
+            HttpCookie login = new HttpCookie("email");
+            login.Expires = DateTime.Now.AddDays(-1d);
+            Response.Cookies.Add(login);
+            Response.Redirect("Home.aspx");
+        }
     }
 }

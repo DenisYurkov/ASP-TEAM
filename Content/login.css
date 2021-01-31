@@ -68,3 +68,21 @@
     margin: 1% 20%;
     color: white;
 }
+#Login {
+    border: none;
+    background: none;
+    color: white;
+    font-size: 1.2em;
+    font-family: "Varela Round", sans-serif;
+    font-weight: bold;
+}
+
+    #Login:hover {
+        border: none;
+        background: none;
+        color: white;
+        font-family: "Varela Round", sans-serif;
+        text-decoration: underline;
+        font-size: 1.2em;
+        font-weight: bold;
+    }
